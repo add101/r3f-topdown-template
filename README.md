@@ -1,4 +1,4 @@
-Character Controller in R3F
+Character Controller in R3F (Desktop)
 
 Model and animations from Mixamo 
 
